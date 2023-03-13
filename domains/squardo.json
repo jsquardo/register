@@ -1,0 +1,17 @@
+{
+  "description": "A personal portfolio site for all my projects.",
+  "owner": {
+    "username": "jsquardo",
+    "email": "johnnysquardo@gmail.com"
+  },
+  "record": {
+    "MX": [
+      "ns1.digitalocean.com",
+      "ns2.digitalocean.com",
+      "ns3.digitalocean.com"
+    ],
+    "A": [
+      "167.99.7.180"
+    ]
+  }
+}
